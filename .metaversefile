@@ -1,5 +1,5 @@
 {
   "name": "homespace-island",
-  "description": "homespace-island",
-  "start_url": "index.js"
+  "description": "Homespace Island",
+  "start_url": "homespace-island.glb"
 }
